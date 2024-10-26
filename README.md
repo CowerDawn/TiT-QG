@@ -12,7 +12,7 @@ What is WM-IT?
 TIT-QG is a program that makes working with the terminal easier with easier commands. Because of this, the terminal is easier to work with for Linux newbies. This version is made for Arch Linux and similar distributions with the pacman package manager.
 How to install?
 1. Download the git package.
-2. Write: git clone 
+2. Write: git clone https://github.com/CowerDawn/TiT-QG
 3. Write: chmod +x TiT-QG.sh
 4. And finally launch: ./TiT-QG.sh
 
