@@ -16,7 +16,7 @@ How to install?
 3. Write: chmod +x TiT-QG.sh
 4. And finally launch: ./TiT-QG.sh
 
-What kind of license? WM-IT is licensed under GPL and is a fully GNU program.
+What kind of license? TiT-QG is licensed under GPL and is a fully GNU program.
 
 TiT-QG is completely made for GNU/Linux systems. Mainly for Arch Linux and the like. For the program to work fully, it is recommended to open it in TTY.
 
