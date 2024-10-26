@@ -8,7 +8,7 @@ LICENSE
 
 GENERAL NOTES
 =============
-What is WM-IT?
+What is TiT-QG?
 TIT-QG is a program that makes working with the terminal easier with easier commands. Because of this, the terminal is easier to work with for Linux newbies. This version is made for Arch Linux and similar distributions with the pacman package manager.
 How to install?
 1. Download the git package.
@@ -17,10 +17,7 @@ How to install?
 4. And finally launch: ./TiT-QG.sh
 
 What kind of license? WM-IT is licensed under GPL and is a fully GNU program.
-See COPYING.txt for the GNU GENERAL PUBLIC LICENSE
 
-WM-IT is completely made for GNU/Linux systems. Mainly for Arch Linux and the like. For the program to work fully, it is recommended to open it in TTY.
-
-WM-IT stands for Window Manager For TTY.
+TiT-QG is completely made for GNU/Linux systems. Mainly for Arch Linux and the like. For the program to work fully, it is recommended to open it in TTY.
 
 Creator: PigMan XrykoBu4
